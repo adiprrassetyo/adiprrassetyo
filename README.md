@@ -42,7 +42,7 @@
 <a href="https://www.linkedin.com/in/adiprrassetyo/">
  <img src="https://img.shields.io/badge/-adiprrassetyo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adiprrassetyo"/>
 </a>
-<a>
+<a href"https://www.instagram.com/adiprrassetyo/">
  <img src="https://img.shields.io/badge/-Adi Prasetyo?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/adiprrassetyo/"/> 
 </a>
  <a href="https://twitter.com/adiprrassetyo">
