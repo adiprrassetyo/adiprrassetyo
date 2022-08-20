@@ -1,8 +1,8 @@
 <!--  https://adiprrassetyo.github.io/portfolio/  -->
 <p align="center">
- 
+ <img hight="300" width="700" alt="GIF" align="center" src="https://github.com/adiprrassetyo/adiprrassetyo/blob/main/images/208593.gif">
 </p align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/adiprrassetyo/adiprrassetyo/blob/main/images/208593.gif">
+
 
 <p align="center">
  
