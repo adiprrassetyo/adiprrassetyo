@@ -43,7 +43,7 @@
  <img src="https://img.shields.io/badge/-adiprrassetyo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adiprrassetyo"/>
 </a>
 <a href"https://www.instagram.com/adiprrassetyo/">
- <img src="https://img.shields.io/badge/-Adi Prasetyo?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/adiprrassetyo/"/> 
+ <img src="https://img.shields.io/badge/Adi Prasetyo-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/adiprrassetyo/"/> 
 </a>
  <a href="https://twitter.com/adiprrassetyo">
  <img src="https://img.shields.io/badge/-adiprrassetyo-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/adiprrassetyo"/>
@@ -51,7 +51,7 @@
 </p>
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://i.pinimg.com/originals/d1/d6/c0/d1d6c0fe9c91839b97e361387b505b97.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="https://i.pinimg.com/originals/d1/d6/c0/d1d6c0fe9c91839b97e361387b505b97.gif"/>
 </div>
 
 <h2 align="center">
