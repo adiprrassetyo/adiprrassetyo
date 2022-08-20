@@ -48,6 +48,10 @@
 </a>
 </p>
 
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://i.pinimg.com/originals/d1/d6/c0/d1d6c0fe9c91839b97e361387b505b97.gif">
+</div>
+
 <h2 align="center">
   My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 </h2>
