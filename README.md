@@ -42,8 +42,8 @@
 <a href="https://www.linkedin.com/in/adiprrassetyo/">
  <img src="https://img.shields.io/badge/-adiprrassetyo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adiprrassetyo"/>
 </a>
-<a href"https://www.instagram.com/adiprrassetyo/">
- <img src="https://img.shields.io/badge/-Adi Prasetyo-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/adiprrassetyo"/> 
+<a href="https://www.instagram.com/adiprrassetyo/"> 
+ <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com /adiprrassetyo"/>
 </a>
  <a href="https://twitter.com/adiprrassetyo">
  <img src="https://img.shields.io/badge/-adiprrassetyo-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/adiprrassetyo"/>
