@@ -36,12 +36,14 @@
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
 <p align="center">
-<!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
 <a href="mailto: adiprstyo11@gmail.com">
  <img src="https://img.shields.io/badge/-adiprrassetyo-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adiprstyo11@gmail.com"/>
 </a>
 <a href="https://www.linkedin.com/in/adiprrassetyo/">
  <img src="https://img.shields.io/badge/-adiprrassetyo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adiprrassetyo"/>
+</a>
+<a>
+ <img src="https://img.shields.io/badge/-Adi Prasetyo?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/adiprrassetyo/"/> 
 </a>
  <a href="https://twitter.com/adiprrassetyo">
  <img src="https://img.shields.io/badge/-adiprrassetyo-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/adiprrassetyo"/>
@@ -68,4 +70,4 @@
 </p>
 
 <p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=adiprrassetyo&theme=react-dark&bg_color=20232a&hide_border=true" alt="Contribution Graph"></p>
-<!--<p align="center">If you like it, do fork 🍴 and star ⭐</p>-->
+
