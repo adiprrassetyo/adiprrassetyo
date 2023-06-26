@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
 <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=flat-square"/>
-<img src="https://img.shields.io/badge/Express.js-green?logo=express&style=flat-square"/>
+<img src="https://img.shields.io/badge/Express.js-green?logo=express&logoColor=white&labelColor=101010&style=flat-square"/>
 <img src="https://img.shields.io/badge/NestJS-red?style=flat-square&logo=nestjs"/>
 </p>
 
