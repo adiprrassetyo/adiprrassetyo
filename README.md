@@ -64,5 +64,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adiprrassetyo&langs_count=8&layout=compact&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5&card_width=445"/>
 </p>
 
-<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=adiprrassetyo&theme=react-dark&bg_color=20232a&hide_border=true" alt="Contribution Graph"></p>
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=adiprrassetyo&bg_color=000119&color=ffffff&line=00a7fa&point=fef5ff&area=true&hide_border=true" alt="Contribution Graph"></p>
 
