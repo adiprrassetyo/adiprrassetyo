@@ -26,6 +26,7 @@
 <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=flat-square"/>
 <img src="https://img.shields.io/badge/Express.js-green?logo=express&logoColor=white&labelColor=101010&style=flat-square"/>
 <img src="https://img.shields.io/badge/NestJS-red?style=flat-square&logo=nestjs"/>
+<img src="https://img.shields.io/badge/Docker-000?style=flat-square&logo=docker"/>
 </p>
 
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
